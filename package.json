@@ -1,5 +1,7 @@
 {
   "name": "rajaroja",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
 }
