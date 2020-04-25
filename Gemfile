@@ -64,6 +64,8 @@ gem 'bootstrap', '~> 4.0.0'
 gem 'haml-rails'
 gem 'pg'
 gem 'thin'
+gem 'webpacker'
+gem 'react-rails'
 
 group :development do
   gem 'better_errors'
@@ -72,4 +74,3 @@ group :development do
   gem 'rails_apps_pages'
   gem 'rails_layout'
 end
-
